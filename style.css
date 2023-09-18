@@ -1,0 +1,13 @@
+h2 {
+    color: aliceblue;
+}
+.no2 {
+    border-radius: 12px;
+    height: 500px;
+    width: 400px;
+}
+span {
+    background-color: blueviolet;
+    padding: 10px;
+    border: 10px solid gray;
+}
